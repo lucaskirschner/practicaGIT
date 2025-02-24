@@ -11,5 +11,5 @@
 int main(void)
 {
 	uint32_t suma = calculo_suma( 2, 3);
-
+	uint32_t resta = calcula_resta(5, 3);
 }
