@@ -10,3 +10,8 @@ uint32_t calcula_suma(uint32_t a, uint32_t b)
 {
 	return a + b;
 }
+
+uint32_t calcula_resta(uint32_t a, uint32_t b)
+{
+	return a - b;
+}
