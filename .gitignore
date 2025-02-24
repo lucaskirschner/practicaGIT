@@ -1,0 +1,8 @@
+
+# Omitir todos los archivos html
+
+*.html
+
+# Omitir el contenido de la carpeta output
+
+output/
