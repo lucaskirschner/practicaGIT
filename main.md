@@ -10,6 +10,5 @@
 
 int main(void)
 {
-
-
+	uint32_t resta = calcula_resta(5, 3);
 }
