@@ -10,6 +10,6 @@
 
 int main(void)
 {
-
+	uint32_t suma = calculo_suma( 2, 3);
 
 }
